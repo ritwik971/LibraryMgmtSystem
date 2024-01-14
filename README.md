@@ -1,22 +1,22 @@
 # LibraryMgmtSystem
 This is a basic Library Management System created using Python and Dajango. This Application is designed for librarian use where a librarian can issue book, return book and access book or members database
 
-##TFeatures:
+## Features:
 Issue a Book
 Return a Book
 Track of Issue and Return
 Manage Members
 Manage Book Database
 
-##Coding Lnaguages Used:
+## Coding Lnaguages Used:
 Back-end: Python
 Front-end: HTML, CSS, JavaScript
 
-##Requirements:
+## Requirements:
 1. Python (version 3 or above)
 2. Django (version 4 or above)
 
-##How to setup this App:
+## How to setup this App:
 1. Install Python.
 2. Install Django.
      or
